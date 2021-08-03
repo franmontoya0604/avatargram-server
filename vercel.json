@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "avatargram-server",
+ 
   "alias": ["avatargram-api"],
   "builds": [{ "src": "index.js", "use": "@vercel/node" }],
   "routes": [{
